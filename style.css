@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+h1{
+    text-align: justify;
+    padding: 5%;
+}
+h2 {
+    text-align: center;
+}
+h4 {
+    font-style: italic;
+}
+
+img {
+   display: flex;
+}
+
+#card-container {
+    margin: auto;
+    padding: 10%;
+}
+
